@@ -1,0 +1,180 @@
+{
+  "Header": {
+    "title": "South Importer",
+    "paragraph": "Somos una empresa dedicada a dar un servicio integral para la industria con más de 55 años de trayectoria en el mercado."
+  },
+  "About": {
+     "paragraph": "En South Importer SRL, llevamos más de cinco décadas comprometidos con la industria, aportando soluciones integrales que marcan la diferencia.\nSabemos que cada cliente es único, y por eso trabajamos de la mano con ustedes para entender sus necesidades y brindarles soluciones a medida.\nSomos mucho más que una empresa. Somos un equipo de profesionales apasionados por lo que hacemos. Cada solución que brindamos refleja nuestro compromiso y excelencia.",
+    "Why": [
+      "Mecanizados de precisión",
+      "Producción en serie",
+      "Matricería para inyección de plásticos",
+      "Servicios de ingeniería en AutoCAD y SolidWorks"
+    ],
+    "Why2": [
+      "Automatización de procesos",
+      "Corte, plegado y soldado de estructuras metálicas",
+      "Modelados en impresión 3D (Dimensiones 350mmx350mmx450mm)"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/10-large.jpg",
+      "smallImage": "img/portfolio/10-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/11-large.jpg",
+      "smallImage": "img/portfolio/11-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/12-large.jpg",
+      "smallImage": "img/portfolio/12-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-cut",
+      "name": "Corte y Plegado de Chapa",
+      "text": "Realizamos corte y plegado de chapas con maquinaria de alta precisión para ofrecer soluciones personalizadas."
+    },
+    {
+      "icon": "fa fa-cogs",
+      "name": "Fabricación de Piezas Metálicas",
+      "text": "Diseñamos y producimos piezas metálicas a medida, garantizando precisión y resistencia para diversas industrias."
+    },
+    {
+      "icon": "fa fa-industry",
+      "name": "Mecanizado CNC",
+      "text": "Ofrecemos mecanizado de precisión con tecnología CNC para la producción de componentes metálicos complejos."
+    },
+    {
+      "icon": "fa fa-building",
+      "name": "Estructuras Metálicas",
+      "text": "Diseñamos y construimos estructuras metálicas para la industria, la construcción y proyectos de ingeniería."
+    },
+    {
+      "icon": "fa fa-paint-brush",
+      "name": "Tratamientos y Acabados",
+      "text": "Aplicamos tratamientos térmicos, galvanizado y pintura industrial para mejorar la durabilidad y estética de los productos metálicos."
+    },
+    {
+      "icon": "fa fa-wrench",
+      "name": "Soldadura Especializada",
+      "text": "Brindamos servicios de soldadura MIG, TIG y por electrodo, asegurando uniones fuertes y duraderas en distintos materiales."
+    }
+],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "M. T. de Alvear 1829 Quilmes, Buenos Aires, Argentina",
+    "phone": "+54 9 11 3658 3323",
+    "email": "southimporter.srl@gmail.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Comunicación inmediata",
+      "text": "Nos podes contactar vía WhatsApp al +54 9 11 3658 3323 o a traves de southimporter.srl@gmail.com"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Innovación Tecnológica",
+      "text": "Utilizamos maquinaria de última generación y procesos avanzados para optimizar la producción y eficiencia."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Compromiso de Seguridad",
+      "text": "Nuestros procesos cumplen con las normativas más exigentes para garantizar la seguridad de nuestros trabajadores y clientes."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Fabricación a Medida",
+      "text": "Diseñamos y producimos soluciones personalizadas en metalurgia para adaptarnos a las necesidades específicas de cada cliente."
+    }
+  ]
+}

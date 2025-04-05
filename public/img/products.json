@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": "Cinta Magneto",
+      "price": "$20",
+      "location": "Ciudad X",
+      "description": "Una cinta de poder para canalizar energías magnéticas.",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_847251-MLA70056333992_062023-E.webp"
+    },
+    {
+      "id": 2,
+      "name": "Guantes de Magneto",
+      "price": "$35",
+      "location": "Ciudad X",
+      "description": "Guantes especiales para controlar el metal.",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_950129-MLU72466642114_102023-E.webp"
+    },
+    {
+      "id": 3,
+      "name": "Casco de Magneto",
+      "price": "$50",
+      "location": "Ciudad X",
+      "description": "El casco que ayuda a Magneto a proteger su mente.",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_697224-MLA47109195747_082021-F.webp"
+    },
+    {
+      "id": 4,
+      "name": "Chaqueta Magneto",
+      "price": "$70",
+      "location": "Ciudad X",
+      "description": "Chaqueta especial para dominar el magnetismo.",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_683898-MLU76675758634_062024-F.webp"
+    },
+    {
+      "id": 5,
+      "name": "Botines Magneto",
+      "price": "$25",
+      "location": "Ciudad X",
+      "description": "Botines resistentes y magnéticos.",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_746516-MLA47110846622_082021-F.webp"
+    }
+  ]
+  
