@@ -4,7 +4,7 @@
     "paragraph": "Somos una empresa dedicada a dar un servicio integral para la industria con más de 55 años de trayectoria en el mercado."
   },
   "About": {
-     "paragraph": "En South Importer SRL, llevamos más de cinco décadas comprometidos con la industria, aportando soluciones integrales que marcan la diferencia.\nSabemos que cada cliente es único, y por eso trabajamos de la mano con ustedes para entender sus necesidades y brindarles soluciones a medida.\nSomos mucho más que una empresa. Somos un equipo de profesionales apasionados por lo que hacemos. Cada solución que brindamos refleja nuestro compromiso y excelencia.",
+     "paragraph": "En South Importer SRL, llevamos más de seis décadas comprometidos con la industria, aportando soluciones integrales que marcan la diferencia.\nSabemos que cada cliente es único, y por eso trabajamos de la mano con ustedes para entender sus necesidades y brindarles soluciones a medida.\nSomos mucho más que una empresa. Somos un equipo de profesionales apasionados por lo que hacemos. Cada solución que brindamos refleja nuestro compromiso y excelencia.",
     "Why": [
       "Mecanizados de precisión",
       "Producción en serie",
@@ -19,71 +19,71 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Matriceria",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Repuesto Turbo Generadores",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Rotor de turbina",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Matriz para extrucion de aluminio ",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Repuestos para la industria farmacéutica",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Ejes cuadrados para la industria papelera ",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": " Columnas para máquinas blisteadores industria farmacéutica",
       "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Rodillos de transporte/ Piñón SAE64",
       "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/08-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "conjunto de absorción cookie por vacío",
       "largeImage": "img/portfolio/09-large.jpg",
       "smallImage": "img/portfolio/09-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Conjuntos de enfriado para coladas continuas de cobre",
       "largeImage": "img/portfolio/10-large.jpg",
       "smallImage": "img/portfolio/10-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "repuesto para automatismos/ SAE 65",
       "largeImage": "img/portfolio/11-large.jpg",
       "smallImage": "img/portfolio/11-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": " Columnas para máquinas blisteadores industria farmacéutica",
       "largeImage": "img/portfolio/12-large.jpg",
       "smallImage": "img/portfolio/12-small.jpg"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-cut",
-      "name": "Corte y Plegado de Chapa",
-      "text": "Realizamos corte y plegado de chapas con maquinaria de alta precisión para ofrecer soluciones personalizadas."
+      "icon": "fa fa-gear",
+      "name": "Mecanizado convencional y CNC",
+      "text": "Ofrecemos mecanizado de precisión con tecnología CNC para la producción de componentes metálicos complejos."
     },
     {
       "icon": "fa fa-cogs",
@@ -91,9 +91,9 @@
       "text": "Diseñamos y producimos piezas metálicas a medida, garantizando precisión y resistencia para diversas industrias."
     },
     {
-      "icon": "fa fa-industry",
-      "name": "Mecanizado CNC",
-      "text": "Ofrecemos mecanizado de precisión con tecnología CNC para la producción de componentes metálicos complejos."
+      "icon": "fa fa-cut",
+      "name": "Corte y Plegado de Chapa",
+      "text": "Realizamos corte y plegado de chapas con maquinaria de alta precisión para ofrecer soluciones personalizadas."
     },
     {
       "icon": "fa fa-building",
