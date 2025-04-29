@@ -15,4 +15,33 @@
   #portfolio {
     width: 110%;
   }
+  .whatsapp-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+    width: 60px;
+    height: 60px;
+  }
+  
+  .whatsapp-button img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+  }
+  
+  .whatsapp-button:hover img {
+    transform: scale(1.1);
+  }
+  
+  /* Opcional: hacer el botón más pequeño en móviles */
+  @media (max-width: 600px) {
+    .whatsapp-button {
+      width: 50px;
+      height: 50px;
+      bottom: 15px;
+      right: 15px;
+    }
+  }
 }
